@@ -9,3 +9,9 @@ You need to identify the best possible model that will give the required perform
 2.	Build a classification model to predict if the customer is going to churn or not
 3.	Optimize the model using appropriate techniques
 4.	Generate a set of insights and recommendations that will help the bank
+### Solution Approach
+* To extract actionable insights from the data that Thera Bank has collected to identify key areas of focus
+* Perform EDA on Variables that influence the number of credit card users.
+* Build a classification model to predict if the customer is going to churn or not.
+* Optimize the model using appropriate techniques.
+* Summarize the insights and recommendations that will help the bank’s business.
